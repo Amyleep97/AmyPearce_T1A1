@@ -46,14 +46,14 @@ Markup lanaguages that are used in webdevelopment are HTML, XML, SGML, XHTML the
 
 ### Packets
 
-- It is data that comes together with other data, it then gets sent to a computer network. Each packet has it's own job to be a part of a message to become a bigger message, this message carries important address information. Packets have limits as to how much data can be sent through each packet individually, that is why they come together to become bigger.
+- It is data that comes together with other data, it then gets sent to a computer network. Each packet has it's own job to be a part of a message to become a bigger message, this message carries important address information. Packets have limits as to how much data can be sent through each packet individually, that is why they come together to become bigger. Packets are a huge part of helping data transfer, without packets data can't breakdown and run through more than one path. This is essential as data can be in big chunks, the bigger it is the harder the transfer will be. 
 
 
 ### IP addresses (IPv4 and IPv6)
 
 - IP stands for Internet Protocol, this is where the Packets of data move through and communicate so it is sent to the correct location. If you are sending something from one place to another these Packets of Data will break down, each packet will have IP, or the Packets will go to the wrong location.
 
-- Every device will come with it's own IP address to help identify who it belongs to or where it is located. Packets of Data cannot route properly without an IP, this is why IP adresses are so important. 
+- Every device will come with it's own IP address to help identify who it belongs to or where it is located. Packets of Data cannot route properly without an IP, this is why IP adresses are so important. We use IP addresses daily and it is the reason why we can use the internet. 
 
 - IPv4 is one of the popular IP adresses used for devices, it is simple because it has a wide range for being used on many different electronic devices. The data that is quite large in the packets through IPv4 is broken down, this makes it easier for information to be sent through. 
 
@@ -61,23 +61,41 @@ Markup lanaguages that are used in webdevelopment are HTML, XML, SGML, XHTML the
 
 - IPv6 isn't massively different to IPv4 but it is more advanced and better, you have bigger space for your IP address and better security for your more advanced devices. You can have a lot of different IP address that are different, if you are connected to a IP address that is under IPv6 you can customise the network settings. Overall it's better for our current generation, due to mobile devices that are connect to a IPv6 address will have decent security. 
 
+
 ### Routers and routing
 
-- Routers are used to get any network device to connect to the internet. 
+- A router is a device that recieves packets and sends them from one location to another, this creates a local network connection. You can connect many devices at once with a router, it will usually find the best path. A router will still require you to have a modem as the job of the modem is to connect to the signal of your internet provider/phone company. Routers create a a stable wireless connection that helps improve the internet connection. The main reason why a router can be essential is the extra protection and gateways that a modem cannot provide.
 
-- Routing is the reason IP packets can go from network to network. 
+- Routing is what makes a router run sucessfully, it starts a route that sends data packets through to a node. The node becomes the sender, it will then communicate with another node to transfer data to a router that is nearby. Routing has different three main purposes Static Routing, Dynamic Routing and Deafault Routing. 
 
 ### Domains and DNS
 
-- Domains 
+- Domain name 
+
+- DNS stands for Domain Name System it works like a main source that has information, it communicates with the IP address. DNS has the job of making websites load their resources, without it we would need to memorize our own IP address. This also requires four steps the first is the DNS recusor, this works as a server searching for queiries from a device. The second is the root server this transfers host names to an IP address. The third step is the TLD namesserver this will search for the right IP address and become a host, it will host the end of the address name. The last step is Authoritative nameserver, this part is when everything comes together in order for it to work it must have access to the very original request, it will then sucessdully commincate with the Recusor. 
+
 
 # Question 3
 
 ### TCP
 
+- TCP stands for Transmission Control Protocol, it's purpose is to be the messenger and works with the internet protocol. TCP is the reason information is sent through multiple network devices, it is that little boost to make sure information is accurate. It is affective by breaking down the big groups of data making information simple and have a smooth flow control. It is mainly about order and going to the correct destination, the TCP chooses the right IP address to every device connected to the the network.   
+
 ### HTTP and HTTPS
 
+- HTTP stands for Hypertext Transfer Protocol it is the soul of the World Wide Web, it works as a link so you can view any webpage you like. HTTP is a client-server protocol this makes it possible for it to function correctly, it will peice the different recourses together. HTTP has come a long way since the 90s and with the ability to show more than just a text article HTTP can display images and videos. This all starts with a request that is sucessfully sent to the client-server protocol, this will then come up with a response, this is when proxies come into the process. HTTP is not a safe option if you are wanting to broadcast your senstive information because it is a different protocol, this is when HTTPS is so important. 
+
+- HTTPS stands for Hypertext Transfer Protocol Secure, almost the same as HTTP but with the security. The purpose is to move very sensitive data from a web browser to a website, the type of data that you don't want other people to get their hands on. If you are doing something online that requires filling out information that is sensitive you will always want to use HTTPS instead of HTTPS. To identify if you are on a HTTPS website while in a webbrowser you will see the padlock at the very start of the search bar. If your url bar says "Not secure" you are not on a HTTPS covered by security of your sensitive information. The way the secuity works is by using encryption, this is apart of TLS and SSL. 
+
 ### Web browsers (requests, rendering and developers tools)
+
+- Web browsers have many different ways of contributing to the development of a client and server communication by using HTTP request methods, rendering and developer tools. 
+
+- HTTP requests: 
+-	The way a request begins is with a Method, the web server can identify a type of Method by looking at the request line. There are many Methods they are Get, Head, Post, Put, Delete, Connect, Options, Trace and Path. These Methods are so server what data is needed depending on which request it is.
+
+- 
+
 
  (explain how each tech has contributed to the development of client and server communication over the internet 50 -150 words)
 
