@@ -92,9 +92,10 @@ Markup lanaguages that are used in webdevelopment are HTML, XML, SGML, XHTML the
 - Web browsers have many different ways of contributing to the development of a client and server communication by using HTTP request methods, rendering and developer tools. 
 
 - HTTP requests: 
--	The way a request begins is with a Method, the web server can identify a type of Method by looking at the request line. There are many Methods they are Get, Head, Post, Put, Delete, Connect, Options, Trace and Path. These Methods are so server what data is needed depending on which request it is.
+-	The way a request begins is with a Method, the web server can identify a type of Method by looking at the request line. There are many Methods they are called Get, Head, Post, Put, Delete, Connect, Options, Trace and Path. These Methods are so the server knows what data is being fetched depending on which request it is.
 
-- 
+- Rendering
+-  Developer tools
 
 
  (explain how each tech has contributed to the development of client and server communication over the internet 50 -150 words)
@@ -121,6 +122,7 @@ Markup lanaguages that are used in webdevelopment are HTML, XML, SGML, XHTML the
 # Question 7
 
 How would I do my first assesment different:
+My first time doing a tech project was when I had to create my own personal website portfolio for this bootcamp. It was challenging but along the way it became easier, I was understanding the languages better with practice. I would do a few things different if I had to do it again, one of them would be working harder on a draft. I would've then had more of guide as to what my website would've actually turned out to be like. I often found myself stuck on deciding the layout and focusing way too much on how it looked rather than if my code was organised correctly. Having a set draft would've made it all a lot easier and smoother sailing. 
 
 # Question 8
 
