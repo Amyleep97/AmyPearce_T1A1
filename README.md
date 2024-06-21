@@ -37,7 +37,7 @@ Markup lanaguages that are used in webdevelopment are HTML, XML, SGML, XHTML the
 - "< img >" This is used to display images on your page, you will also need to use the "< alt >" tag to show where the content is from. 
 
 ## CSS 
-### Cascading style sheet is a very powerful and important part in HTML, with CSS you can go from changing your font colour/size to even creating borders on images. You can do many creative things with CSS, the great thing about CSS is it's ability to have several style sheets for each page. Using CSS will make your website more engaging and attractive. 
+ - Cascading style sheet is a very powerful and important part in HTML, with CSS you can go from changing your font colour/size to even creating borders on images. You can do many creative things with CSS, the great thing about CSS is it's ability to have several style sheets for each page. Using CSS will make your website more engaging and attractive. 
 
 - To use CSS in HTML you must always link each style sheet individually using " < link rel="stylesheet" href="styles.css"> " into your " < head > " tag or the CSS will not be applied to your website. 
 
@@ -77,6 +77,8 @@ Markup lanaguages that are used in webdevelopment are HTML, XML, SGML, XHTML the
 
 # Question 3
 
+- There are different types of technologies that are essential to make web development possible. The ones that contribute to the development of client and server communication are TCP, HTTP, HTTPS, Request Methods, Rendering and Developer tools. 
+
 ### TCP
 
 - TCP stands for Transmission Control Protocol, it's purpose is to be the messenger and works with the internet protocol. TCP is the reason information is sent through multiple network devices, it is that little boost to make sure information is accurate. It is affective by breaking down the big groups of data making information simple and have a smooth flow control. It is mainly about order and going to the correct destination, the TCP chooses the right IP address to every device connected to the the network.   
@@ -87,16 +89,14 @@ Markup lanaguages that are used in webdevelopment are HTML, XML, SGML, XHTML the
 
 - HTTPS stands for Hypertext Transfer Protocol Secure, almost the same as HTTP but with the security. The purpose is to move very sensitive data from a web browser to a website, the type of data that you don't want other people to get their hands on. If you are doing something online that requires filling out information that is sensitive you will always want to use HTTPS instead of HTTPS. To identify if you are on a HTTPS website while in a webbrowser you will see the padlock at the very start of the search bar. If your url bar says "Not secure" you are not on a HTTPS covered by security of your sensitive information. The way the secuity works is by using encryption, this is apart of TLS and SSL. 
 
-### Web browsers (requests, rendering and developers tools)
-
-- Web browsers have many different ways of contributing to the development of a client and server communication by using HTTP request methods, rendering and developer tools. 
-
-- HTTP requests: 
+- ## Requests: 
 -	The way a request begins is with a Method, the web server can identify a type of Method by looking at the request line. There are many Methods they are called Get, Head, Post, Put, Delete, Connect, Options, Trace and Path. These Methods are so the server knows what data is being fetched depending on which request it is.
 
-- Rendering
--  Developer tools
+## Rendering:
+- Rendering is one of the most important parts of webdesigning, it brings a web site to life. Without rendering your code you wouldn't be able to interact with the website.  
 
+# Developer tools
+- Devloper tools let see what each part of code is doing on your website. This is always live so you can untick/tick boxes and see instant results. You should be able to bring it up in a seperate browser after you use a shortcut (CTRL, Shift, I or F12) This will take you to the menu bar just go to more tools then to Web Developer Tool. Keep in mind that Different browsers will have different steps to open the Developer Tool menu. This is handy as you can physically see where each elements are being applied, this way you are able to changed your code if you feel unhappy with your layout.
 
  (explain how each tech has contributed to the development of client and server communication over the internet 50 -150 words)
 
@@ -121,8 +121,7 @@ Markup lanaguages that are used in webdevelopment are HTML, XML, SGML, XHTML the
 
 # Question 7
 
-How would I do my first assesment different:
-My first time doing a tech project was when I had to create my own personal website portfolio for this bootcamp. It was challenging but along the way it became easier, I was understanding the languages better with practice. I would do a few things different if I had to do it again, one of them would be working harder on a draft. I would've then had more of guide as to what my website would've actually turned out to be like. I often found myself stuck on deciding the layout and focusing way too much on how it looked rather than if my code was organised correctly. Having a set draft would've made it all a lot easier and smoother sailing. 
+- My first time doing a tech project was when I had to create my own personal website portfolio for this bootcamp. It was challenging but along the way it became easier, I was understanding the languages better with practice. I would do a few things different if I had to do it again, one of them would be working harder on a draft. I would've then had more of guide as to what my website would've actually turned out to be like. I often found myself stuck on deciding the layout and focusing way too much on how it looked rather than if my code was organised correctly. Having a set draft would've made it all a lot easier and smoother sailing. 
 
 # Question 8
 
