@@ -15,7 +15,6 @@ Markup lanaguages that are used in webdevelopment are HTML, XML, SGML, XHTML the
 " < !DOCTYPE HTML PUBLIC > ", " < !DOCTYPE html PUBLIC "> 
 
 
-
 ## Tags
 
 ## HTML is structured by using different elements one of these elements are called "tags" A tag must start with an opening tag and finish with a closing tag. 
@@ -103,14 +102,14 @@ Markup lanaguages that are used in webdevelopment are HTML, XML, SGML, XHTML the
 
 # Question 4
 
-### Interpreters 
+### Compilers and Interpreter 
 
-### Compilers
-
+- These two have different roles but work together to take the Source Code so it turns into a Machine Code, without this process the computer cannot understand the language clearly. The Interpreter takes the code and turns it into a high level language this way the Compiler can change it into a machine code. The Compiler has the more important job as it needs to pick up errors and needs to over look the entire program. 
 
 # Question 5
 
 ### Python
+
 
 ### Javascript
 
@@ -118,6 +117,13 @@ Markup lanaguages that are used in webdevelopment are HTML, XML, SGML, XHTML the
 # Question 6
 
 ### Email:
+
+- Hi Alex,
+Thank you so much for getting in touch! I would love to make a website to help your buisness grow. The first step would be sending me through some of your favourite images of any awesome artefacts, objects and paraphernalias followed by a discription for what each image is. I think this would be a key element to add to the website to help draw the right audience in! Any other information that you believe customers should know before visiting is also essential. For example the contact number for the venue, address opening/closing times and what you can see at SAM. I'm thinking a stoneage but minimalistic kind of style with light green, black and white colours? if you would like or have any particular style in mind please let me know, I want you to be satified with the result. If you have any other question don't hestiate to ask! Excited to hear back from you and start this website for you.
+
+Kind Regards,
+
+Amy Pearce. 
 
 # Question 7
 
