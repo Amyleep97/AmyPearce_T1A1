@@ -131,14 +131,48 @@ Amy Pearce.
 
 # Question 8
 
+- 
+
+
 
 # Question 9
+
+- Language-learning models work through AI and works as a chat assitant, basically like a bot chat. ChatGPT is one of the common AI models used as its very easy to use, it's so smart and effective it feels as though a real person is typing to you live. You could ask the model to write up a short story about something and it will respond back and write that story for you. ChatGPT is a free to use only if you already have account with OpenAI's as they are the creators. The purpose of a Language-learning model is to help a companys assit their customers without having to stress. 
 
 
 # Question 10
 
 
+
+
 # Question 11
+
+## Hard Skills
+
+### Programing Languages
+
+- Having this skill is a highly reccomended skill to have if you want to become a software developer. When a company is intrested in hiring someone the main thing they will look out for is if you know enough languages, without this skill you're less likely to be successful or hired. It is a high-demand requirement as you can make many programs/websites using Python, HTML, CSS etc.
+
+### Version Control Systems
+
+- These systems help you keep all your code in check, you can have all your projects in one place. It can be seen by muliple companys/people if you want it to be viewed. This is fantatic for collabing with others if you are in a work space and want to show off all your hard work. Version Control Systems are also not something you can learn over night so having this skill will be impressive to developers. 
+
+### API Inegration
+- Stands for Application Programing Interface, the purpose is to help different applications talk to each other. API integration is an essential part in a development workplace without it you can't send data live and connect to external applications. You would need to go through a longer and slower process, more time means more money having to be spent on the company. API Inegration is useful in a development workplace because it's quicker and not as time consuming. If you don't want a company to have as much manual labour the it is something to really consider. 
+
+## Soft Skills
+
+### Attention to detail 
+
+- This is a key personal skill to have because without it your projects can be very messy and may even not work correctly. Attention to detail is all about having a very good eye for many errors if you don't have this skill you will struggle. 
+
+### Patience
+
+- Software development is not an easy job you will bump into a lot of hiccups along the way. Having patience is so important as you need to always proof read everything, assesing exsactly where the error is coming from. When working in a team for a software development job always show you are willing to be patient and solve any issues. 
+
+## 
+
+- 
 
 
 # Question 12
