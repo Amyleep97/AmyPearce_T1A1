@@ -2,13 +2,13 @@
 
 # Question 1
 
-Markup lanaguages that are used in webdevelopment are HTML, XML, SGML, XHTML they are used to help structure and build a website. Anything you see on a website from headings, articles, links, and even images are created using these markup languages. The purpose of these languages is help organise and layout how your website will be presented online. There are many components and concepts to these languages and specfic steps to take.
+- Markup lanaguages that are used in webdevelopment are HTML, XML, SGML, XHTML they are used to help structure and build a website. Anything you see on a website from headings, articles, links, and even images are created using these markup languages. The purpose of these languages is help organise and layout how your website will be presented online. There are many components and concepts to these languages and specfic steps to take.
 
 ## Components/Concepts
 
 ## Doctypes 
 
-### Doctypes HTML help identify which HTML document it's coded in, the purpose is to communicate with the browser so it knows what should be on shown your website. Doctypes will always be the first line of code you should see. 
+- Doctypes HTML help identify which HTML document it's coded in, the purpose is to communicate with the browser so it knows what should be on shown your website. Doctypes will always be the first line of code you should see. 
 
 - HTML5 is the most reccent version and is the one that is reccomended, you can identify this doctype by seeing this code:
 "< !DOCTYPE html >" HTML 4.01 and XHTML 1.10 are the other docutypes you may see in HTML but it can be more complex and complicated. You can also identify these by seeing: 
@@ -17,7 +17,7 @@ Markup lanaguages that are used in webdevelopment are HTML, XML, SGML, XHTML the
 
 ## Tags
 
-## HTML is structured by using different elements one of these elements are called "tags" A tag must start with an opening tag and finish with a closing tag. 
+- HTML is structured by using different elements one of these elements are called "tags" A tag must start with an opening tag and finish with a closing tag. 
 
 - "< header >" This tag is for your main header, usually the indicator of what the website is called.
 
@@ -45,7 +45,7 @@ Markup lanaguages that are used in webdevelopment are HTML, XML, SGML, XHTML the
 
 ### Packets
 
-- It is data that comes together with other data, it then gets sent to a computer network. Each packet has it's own job to be a part of a message to become a bigger message, this message carries important address information. Packets have limits as to how much data can be sent through each packet individually, that is why they come together to become bigger. Packets are a huge part of helping data transfer, without packets data can't breakdown and run through more than one path. This is essential as data can be in big chunks, the bigger it is the harder the transfer will be. 
+- It's data that comes together with other data, it then gets sent to a computer network. Each packet has it's own job to be a part of a message to become a bigger message, this message carries important address information. Packets have limits as to how much data can be sent through each packet individually, that is why they come together to become bigger. Packets are a huge part of helping data transfer, without packets data can't breakdown and run through more than one path. This is essential as data can be in big chunks, the bigger it is the harder the transfer will be. 
 
 
 ### IP addresses (IPv4 and IPv6)
@@ -88,10 +88,10 @@ Markup lanaguages that are used in webdevelopment are HTML, XML, SGML, XHTML the
 
 - HTTPS stands for Hypertext Transfer Protocol Secure, almost the same as HTTP but with the security. The purpose is to move very sensitive data from a web browser to a website, the type of data that you don't want other people to get their hands on. If you are doing something online that requires filling out information that is sensitive you will always want to use HTTPS instead of HTTPS. To identify if you are on a HTTPS website while in a webbrowser you will see the padlock at the very start of the search bar. If your url bar says "Not secure" you are not on a HTTPS covered by security of your sensitive information. The way the secuity works is by using encryption, this is apart of TLS and SSL. 
 
-- ## Requests: 
+## Requests 
 -	The way a request begins is with a Method, the web server can identify a type of Method by looking at the request line. There are many Methods they are called Get, Head, Post, Put, Delete, Connect, Options, Trace and Path. These Methods are so the server knows what data is being fetched depending on which request it is.
 
-## Rendering:
+## Rendering
 - Rendering is one of the most important parts of webdesigning, it brings a web site to life. Without rendering your code you wouldn't be able to interact with the website.  
 
 # Developer tools
@@ -170,12 +170,11 @@ Amy Pearce.
 
 - Software development is not an easy job you will bump into a lot of hiccups along the way. Having patience is so important as you need to always proof read everything, assesing exsactly where the error is coming from. When working in a team for a software development job always show you are willing to be patient and solve any issues. 
 
-## 
-
-- 
+## Self-motivation
+- Majority of time working in software development you have to self manage your projects. Self-motivation is so cruital because no one is going to push you to get your work done, it has to all come from you. It can be helpful to manage this by being organised and having set plans, for example using wireframes and trello.
 
 
 # Question 12
 
-
+- 
 
