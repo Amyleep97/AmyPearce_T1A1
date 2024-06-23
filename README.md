@@ -69,9 +69,7 @@
 
 ### Domains and DNS
 
-- Domain name 
-
-- DNS stands for Domain Name System it works like a main source that has information, it communicates with the IP address. DNS has the job of making websites load their resources, without it we would need to memorize our own IP address. This also requires four steps the first is the DNS recusor, this works as a server searching for queiries from a device. The second is the root server this transfers host names to an IP address. The third step is the TLD namesserver this will search for the right IP address and become a host, it will host the end of the address name. The last step is Authoritative nameserver, this part is when everything comes together in order for it to work it must have access to the very original request, it will then sucessdully commincate with the Recusor. 
+- DNS stands for Domain Name System it works like a main source that has information, it communicates with the IP address. DNS has the job of making websites load their resources, without it we would need to memorize our own IP address. This also requires four steps the first is the DNS recusor, this works as a server searching for queiries from a device. The second is the root server this transfers host names to an IP address. The third step is the TLD namesserver this will search for the right IP address and become a host, it will host the end of the address name. The last step is Authoritative nameserver, this part is when everything comes together in order for it to work it must have access to the very original request, it will then sucessfully commuincate with the Recusor. 
 
 
 # Question 3
@@ -80,7 +78,7 @@
 
 ### TCP
 
-- TCP stands for Transmission Control Protocol, it's purpose is to be the messenger and works with the internet protocol. TCP is the reason information is sent through multiple network devices, it is that little boost to make sure information is accurate. It is affective by breaking down the big groups of data making information simple and have a smooth flow control. It is mainly about order and going to the correct destination, the TCP chooses the right IP address to every device connected to the the network.   
+- TCP stands for Transmission Control Protocol, it's purpose is to be the messenger and works with the internet protocol. TCP is the reason information is sent through multiple network devices, it is that little boost to make sure information is accurate. It is affective by breaking down the big groups of data making information simple and have a smooth flow control. It contributes by makeing sure all the information going to the correct destination, the TCP chooses the right IP address to every device connected to the the network.   
 
 ### HTTP and HTTPS
 
@@ -89,15 +87,14 @@
 - HTTPS stands for Hypertext Transfer Protocol Secure, almost the same as HTTP but with the security. The purpose is to move very sensitive data from a web browser to a website, the type of data that you don't want other people to get their hands on. If you are doing something online that requires filling out information that is sensitive you will always want to use HTTPS instead of HTTPS. To identify if you are on a HTTPS website while in a webbrowser you will see the padlock at the very start of the search bar. If your url bar says "Not secure" you are not on a HTTPS covered by security of your sensitive information. The way the secuity works is by using encryption, this is apart of TLS and SSL. 
 
 ## Requests 
--	The way a request begins is with a Method, the web server can identify a type of Method by looking at the request line. There are many Methods they are called Get, Head, Post, Put, Delete, Connect, Options, Trace and Path. These Methods are so the server knows what data is being fetched depending on which request it is.
+-	The way a request begins is with a Method, the web server can identify a type of Method by looking at the request line. There are many Methods they are called Get, Head, Post, Put, Delete, Connect, Options, Trace and Path. These Methods are so the server knows what data is being fetched depending on which request it is. Requests help find the resouce to then recieve a response from the server. 
 
 ## Rendering
-- Rendering is one of the most important parts of webdesigning, it brings a web site to life. Without rendering your code you wouldn't be able to interact with the website.  
+- Rendering is one of the most important parts of webdesigning, it brings a web site to life. The way this works is it takes all the coding languages you have written for your website. Without rendering your code you wouldn't be able to interact with the website. For example all your interactive items like drop down boxes or animations. 
 
 # Developer tools
 - Devloper tools let see what each part of code is doing on your website. This is always live so you can untick/tick boxes and see instant results. You should be able to bring it up in a seperate browser after you use a shortcut (CTRL, Shift, I or F12) This will take you to the menu bar just go to more tools then to Web Developer Tool. Keep in mind that Different browsers will have different steps to open the Developer Tool menu. This is handy as you can physically see where each elements are being applied, this way you are able to changed your code if you feel unhappy with your layout.
 
- (explain how each tech has contributed to the development of client and server communication over the internet 50 -150 words)
 
 
 # Question 4
@@ -110,9 +107,12 @@
 
 ### Python
 
+- Python is a very powerful programing language it is one of the best beginner programing languages to learn. Knowing Python will give you a big variety of opportunitys to be used in a software development role. It is a very easy language to understand and has many benefits but does have its cons, for example it has a slow Runtime because it follows the code line for line. To get the best use out of python you should use it for either game development, web development, automation and many more. 
+
 
 ### Javascript
 
+- This is a porgraming language that allows you to bring in complex content to a web page. Anything you see on a website that is interactive or has animations it is probably generated by javascript. This lanaguage must always run in interpreted order this means it needs to run from top to bottom. Javascipt is great because it not only process's fast but it is able to run through any browser. The downside to Javascript is when applications are large they can be harder to process, the code can also become complex  when used in different browsers.
 
 # Question 6
 
@@ -131,18 +131,27 @@ Amy Pearce.
 
 # Question 8
 
-- 
+## Action Plan:
+
+1. My first goal and step I need to take in order to progress in this industry is updating my linkedin. I have created a page but still need to update my profile picture and add in my projects/expierence to showcase my knowledge. I expect to gain a spot in the industry and connect with others through my linkedin. 
+
+2. My second step would be to reach out to events and workshops that will teach me new and important information. Doing this will gain some connections to other people in the industry, I'll know what to expect if I want to work with others.
+
+3. Doing more reasearch on each topic I have already learnt. I want to be able to have a lot more knowledge and common sense when it comes to coding. Putting this into practice and doing my own research will help me gain confidence within myself.
+
+4. Showcasing more of my github, it's a huge step for myself but it has a lot of benefits. I tend to doubt my own work and compare myself to others, this part is something I'm already starting to work on. The best way to take this step is by sharing my Github link with other students and teachers in the industry and ask for some feedback on what I could improve on so I'm not stuck in the same place.
+
 
 
 
 # Question 9
 
-- Language-learning models work through AI and works as a chat assitant, basically like a bot chat. ChatGPT is one of the common AI models used as its very easy to use, it's so smart and effective it feels as though a real person is typing to you live. You could ask the model to write up a short story about something and it will respond back and write that story for you. ChatGPT is a free to use only if you already have account with OpenAI's as they are the creators. The purpose of a Language-learning model is to help a companys assit their customers without having to stress. 
+- Language-learning models work through AI and works as a chat assitant, basically like a bot chat. ChatGPT is one of the common AI models used as its very easy to use, it's so smart and effective it feels as though a real person is typing to you live. You could ask the model to write up a short story about something and it will respond back and write that story for you. ChatGPT is a free to use only if you already have account with OpenAI's as they are the creators. 
 
 
 # Question 10
 
-
+- The purpose of a Language-learning model is to help a company assit their customers without having to stress, less work means being able to finish and focus on more important projects. ChatGPT is ideal for software development projects because it has the ability to process corresponding code. It's crutial to be able to process corresponding code so if you have someone that needs to give feedback they don't need to be a tech wizard.  
 
 
 # Question 11
@@ -164,17 +173,29 @@ Amy Pearce.
 
 ### Attention to detail 
 
-- This is a key personal skill to have because without it your projects can be very messy and may even not work correctly. Attention to detail is all about having a very good eye for many errors if you don't have this skill you will struggle. 
+- This is a key personal skill to have because without it your projects can be very messy and may even not work correctly. Attention to detail is all about having a very good eye , if you don't have this skill you will struggle to tell if your code has errors. In software development you may notice your site is not linking or displaying an image, this could be as little as a semi column has been accidently put in as a ":". With very good attention to detail you would pick this up almost instanly. 
 
 ### Patience
 
-- Software development is not an easy job you will bump into a lot of hiccups along the way. Having patience is so important as you need to always proof read everything, assesing exsactly where the error is coming from. When working in a team for a software development job always show you are willing to be patient and solve any issues. 
+- Software development is not an easy job you will bump into a lot of problems along the way, having patience is so important because you need to always proof read your code. You must assess and look for where the error is coming from. When working in a team for a software development job always show you are willing to be patient and solve any issues and never give up untill you find the answer. 
 
 ## Self-motivation
-- Majority of time working in software development you have to self manage your projects. Self-motivation is so cruital because no one is going to push you to get your work done, it has to all come from you. It can be helpful to manage this by being organised and having set plans, for example using wireframes and trello.
+
+- Majority of time working in software development you have to self manage your projects. Self-motivation is so cruital because no one is going to push you to get your work done, it has to all come from you. It can be helpful to manage this by being organised and having set plans, for example using wireframes and trello. Doing research and looking up to other developers is a great way to stay motivated in this industry as it can be very tough, but by putting in the hard work you will be rewarded. 
 
 
 # Question 12
 
-- 
+
+## Web Developers
+
+- Web developent is one of the common and easier roles you can do if you don't want anything too advanced and still want to be in the software development industry. Their job is to create websites and design the look and layout, it can take some skills and a good eye but some people have the right eye and talent for it. 
+
+## Software Tester
+
+- This role still involves coding and general knowledge of each language because your main focus is to be able to pick up bugs and notice where the errors are taking place. Software testers will go through a websites code to ensure it is all good to be on the internet for everyone to see. 
+
+## DevOps Engineers
+
+- DevOps Engineers will spend their time keeping up to date computer servers. To become a DevOps Engineer you must have very strong communication skills, high tech expierence with knowledge in both coding and scripting. This role is a more advanced than an average software development role.
 
