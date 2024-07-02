@@ -4,7 +4,7 @@
 
 - Markup languages that are used in web development are HTML, XML, SGML, and XHTML they are used to help structure and build a website. Anything you see on a website from headings, articles, links, and even images is created using these markup languages. The purpose of these languages is to help organize and lay out how your website will be presented online. There are many components and concepts to these languages and specific steps to take.
 
-## Components/Concepts
+# Components/Concepts
 
 ## Doctypes 
 
@@ -13,6 +13,7 @@
 - HTML5 is the most recent version and is the one that is recommended, you can identify this doctype by seeing this code:
 "< !DOCTYPE html >" HTML 4.01 and XHTML 1.10 are the other doctypes you may see in HTML but they can be more complex and complicated. You can also identify these by seeing: 
 " < !DOCTYPE HTML PUBLIC > ", " < !DOCTYPE html PUBLIC "> 
+
 
 ## Tags
 
@@ -38,6 +39,37 @@
  - Cascading style sheet is a very powerful and important part of HTML, with CSS you can go from changing your font color/size to even creating borders on images. You can do many creative things with CSS, the great thing about CSS is its ability to have several style sheets for each page. Using CSS will make your website more engaging and attractive. 
 
 - To use CSS in HTML you must always link each style sheet individually using " < link rel="stylesheet" href="styles.css"> " into your " < head > " tag or the CSS will not be applied to your website. 
+
+# References:
+
+- https://aws.amazon.com/compare/the-difference-between-html-and-xml/
+
+- https://www.lenovo.com/us/en/glossary/markup-language/?orgRef=https%3A%2F%2Fwww.google.com%2F
+
+- https://www.w3schools.com/html/html_elements.asp
+
+- https://www.w3schools.com/html/html_div.asp
+
+- https://www.elated.com/first-10-html-tags/
+
+- https://www.w3schools.com/html/html_basic.asp
+
+- https://blog.hubspot.com/website/doctype-html
+
+- https://www.mailmodo.com/guides/html-email-doctype/
+
+- https://www.freecodecamp.org/news/what-is-the-doctype-declaration-in-html/#:~:text=In%20the%20modern%20age%20of,document%20in%20full%20standards%20mode.
+
+- https://blog.hubspot.com/website/doctype-html
+
+- https://www.w3schools.com/html/html_css.asp
+
+- https://www.w3schools.com/css/default.asp
+
+- https://byjus.com/full-form/css-full-form/#:~:text=The%20full%20form%20of%20CSS%20is%20Cascading%20Style%20Sheets.,content%20from%20the%20report's%20appearance.
+
+- https://www.w3schools.com/html/html_css.asp
+
 
 # Question 2
 
@@ -65,6 +97,42 @@
 
 - DNS stands for Domain Name System it works like a main source that has information, it communicates with the IP address. DNS has the job of making websites load their resources, without it we would need to memorize our IP address. This also requires four steps the first is the DNS recusor, which works as a server searching for queries from a device. The second is the root server which transfers hostnames to an IP address. The third step is the TLD nameserver this will search for the right IP address and become a host, it will host the end of the address name. The last step is the Authoritative nameserver, this part is when everything comes together for it to work it must have access to the very original request, it will then successfully communicate with the Rector. 
 
+# References: 
+- https://techevaluate.com/why-do-we-break-data-into-packets/
+
+- https://www.techtarget.com/searchnetworking/definition/packet
+
+- https://www.akamai.com/glossary/what-are-packets
+
+- https://www.cloudflare.com/en-gb/learning/network-layer/what-is-a-packet/
+
+- https://www.juniper.net/documentation/us/en/software/junos/interfaces-security-devices/topics/topic-map/security-interface-ipv4-ipv6-protocol.html#:~:text=IPv4%20addresses%20are%2032-bit,IPv4%20classful%20addressing
+
+- https://kinsta.com/blog/ipv4-vs-ipv6/
+
+- https://www.dnsstuff.com/ipv4-vs-ipv6#What-Is-IPv4
+
+- https://www.cisco.com/c/en/us/solutions/small-business/resource-center/networking/how-does-a-router-work.html#~different-types-of-routers
+
+- https://www.cloudflare.com/en-gb/learning/network-layer/what-is-routing/
+
+- https://www.avg.com/en/signal/what-is-a-router
+
+- https://www.lifewire.com/do-i-need-a-modem-and-router-4686028
+
+- https://www.geeksforgeeks.org/what-is-routing/
+
+- https://www.techtarget.com/searchnetworking/definition/packet#:~:text=Packets%20are%20used%20for%20efficient%20and%20reliable%20transmission,enable%20multiple%20computers%20to%20share%20the%20same%20connection.
+
+- https://wpastra.com/guides-and-tutorials/what-is-ip-address/
+
+- https://www.cisco.com/c/en/us/solutions/small-business/resource-center/networking/how-does-a-router-work.html
+
+- https://www.wesbytes.com/guide/kb/what-is-a-domain-and-a-dns/
+
+- https://www.cloudflare.com/en-gb/learning/dns/what-is-dns/
+
+
 # Question 3
 
 - Different types of technologies are essential to make web development possible. The ones that contribute to the development of client and server communication are TCP, HTTP, HTTPS, Request Methods, Rendering, and Developer tools. 
@@ -88,12 +156,41 @@
 # Developer tools
 - Developer tools let see what each part of the code is doing on your website. This is always live so you can untick/tick boxes and see instant results. You should be able to bring it up in a separate browser after you use a shortcut (CTRL, Shift, I, or F12) This will take you to the menu bar just go to more tools and then to Web Developer Tool. Keep in mind that Different browsers will have different steps to open the Developer Tool menu. This is handy as you can physically see where each element is being applied, this way you can change your code if you feel unhappy with your layout.
 
+# References:
+
+- https://www.geeksforgeeks.org/what-is-transmission-control-protocol-tcp/
+
+- https://www.cloudflare.com/en-gb/learning/ddos/glossary/hypertext-transfer-protocol-http/
+
+- https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview
+
+- https://www.cloudflare.com/en-gb/learning/ssl/what-is-https/
+
+- https://kinsta.com/knowledgebase/what-is-an-http-request/
+
+- https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods
+
+- https://blog.logrocket.com/how-browser-rendering-works-behind-scenes/
+
+- https://qarea.com/blog/webpage-rendering-how-it-works-tips-on-optimization
+
+- https://stackoverflow.com/questions/16518951/rendering-in-context-of-web-development
+
+- https://www.sanity.io/glossary/rendering
+
+- https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Tools_and_setup/What_are_browser_developer_tools
+
 
 # Question 4
 
 ### Compilers and Interpreter 
 
 - These two have different roles but work together to take the Source Code so it turns into a Machine Code, without this process the computer cannot understand the language clearly. The Interpreter takes the code and turns it into a high-level language this way the Compiler can change it into a machine code. The Compiler has the more important job as it needs to pick up errors and needs to overlook the entire program. 
+
+# References:
+
+- https://www.geeksforgeeks.org/difference-between-compiler-and-interpreter/
+
 
 # Question 5
 
@@ -104,6 +201,15 @@
 ### Javascript
 
 - This is a programming language that allows you to bring complex content to a web page. Anything you see on a website that is interactive or has animations it is probably generated by JavaScript. This language must always run in interpreted order this means it needs to run from top to bottom. JavaScript is great because it not only processes fast but it can run through any browser. The downside to JavaScript is when applications are large they can be harder to process, the code can also become complex when used in different browsers.
+
+# Refrences:
+- https://www.geeksforgeeks.org/what-is-python/
+
+- https://www.geeksforgeeks.org/disadvantages-of-python/
+
+- https://www.bing.com/search?q=javascript+and+how+it+works&qs=n&form=QBRE&sp=-1&lq=0&pq=javascript+and+how+it+w&sc=10-23&sk=&cvid=811EF4EB78BC48E9A78027A45F2B7ED7&ghsh=0&ghacc=0&ghpl=
+
+- https://www.geeksforgeeks.org/advantages-and-disadvantages-of-javascript/
 
 # Question 6
 
@@ -138,9 +244,19 @@ Amy Pearce.
 
 - Language-learning models work through AI and work as a chat assistant, basically like a bot chat. ChatGPT is one of the common AI models used as it is very easy to use, it's so smart and effective that it feels as though a real person is typing to you live. You could ask the model to write up a short story about something and it will respond and write that story for you. ChatGPT is free to use only if you already have an account with OpenAI as they are the creators. 
 
+# References:
+
+- https://www.howtogeek.com/871071/what-is-chatgpt/
+
 # Question 10
 
 - The purpose of a Language-learning model is to help a company assist its customers without having to stress, less work means being able to finish and focus on more important projects. ChatGPT is ideal for software development projects because it must have the ability to process corresponding code. It's crucial to be able to process corresponding code so if you have someone that needs to give feedback, they don't need to be a tech wizard.  
+
+# References:
+
+- https://lablab.ai/t/why-you-should-use-chatgpt-in-your-business
+- https://www.geeksforgeeks.org/how-chatgpt-is-transforming-the-software-development-process/
+
 
 # Question 11
 
@@ -171,6 +287,13 @@ Amy Pearce.
 
 - Majority of time working in software development you must self-manage your projects. Self-motivation is so crucial because no one is going to push you to get your work done, it must all come from you. It can be helpful to manage this by being organized and having set plans, for example using wireframes and Trello. Doing research and looking up to other developers is a great way to stay motivated in this industry as it can be very tough, but by putting in the hard work you will be rewarded. 
 
+# References
+- https://cscareerline.com/hard-and-soft-skills-for-software-engineer-resume/
+
+- https://www.geeksforgeeks.org/what-is-api-integration/
+
+- https://www.linkedin.com/advice/1/youre-software-developer-looking-network-whats-iecne
+
 # Question 12
 
 ## Web Developers
@@ -185,123 +308,12 @@ Amy Pearce.
 
 - DevOps Engineers will spend their time keeping up-to-date computer servers. To become a DevOps Engineer, you must have very strong communication skills and high-tech experience with knowledge of both coding and scripting. This role is more advanced than an average software development role.
 
-## References/Websites I got all my information from:
+## References:
 
-https://aws.amazon.com/compare/the-difference-between-html-and-xml/
+- https://fullscale.io/blog/roles-and-responsibilities-of-a-software-developer/
 
-https://www.lenovo.com/us/en/glossary/markup-language/?orgRef=https%3A%2F%2Fwww.google.com%2F
+- https://www.atlassian.com/devops/what-is-devops/devops-engineer
 
-https://www.w3schools.com/html/html_elements.asp
-
-https://www.w3schools.com/html/html_div.asp
-
-https://www.elated.com/first-10-html-tags/
-
-https://www.w3schools.com/html/html_basic.asp
-
-https://blog.hubspot.com/website/doctype-html
-
-https://www.mailmodo.com/guides/html-email-doctype/
-
-https://www.freecodecamp.org/news/what-is-the-doctype-declaration-in-html/#:~:text=In%20the%20modern%20age%20of,document%20in%20full%20standards%20mode.
-
-https://blog.hubspot.com/website/doctype-html
-
-https://www.w3schools.com/html/html_css.asp
-
-https://www.w3schools.com/css/default.asp
-
-https://byjus.com/full-form/css-full-form/#:~:text=The%20full%20form%20of%20CSS%20is%20Cascading%20Style%20Sheets.,content%20from%20the%20report's%20appearance.
-
-https://www.w3schools.com/html/html_css.asp
-
-
-https://courses.lumenlearning.com/suny-the-missing-link-an-introduction-to-web-development-and-programming/chapter/chapter-7-markup-languages/
-
-https://www.techtarget.com/searchnetworking/definition/packet
-
-https://www.akamai.com/glossary/what-are-packets
-
-https://www.cloudflare.com/en-gb/learning/network-layer/what-is-a-packet/
-
-https://www.juniper.net/documentation/us/en/software/junos/interfaces-security-devices/topics/topic-map/security-interface-ipv4-ipv6-protocol.html#:~:text=IPv4%20addresses%20are%2032-bit,IPv4%20classful%20addressing
-
-https://kinsta.com/blog/ipv4-vs-ipv6/
-
-https://www.dnsstuff.com/ipv4-vs-ipv6#What-Is-IPv4
-
-https://www.cisco.com/c/en/us/solutions/small-business/resource-center/networking/how-does-a-router-work.html#~different-types-of-routers
-
-https://www.cloudflare.com/en-gb/learning/network-layer/what-is-routing/
-
-https://www.avg.com/en/signal/what-is-a-router
-
-https://www.lifewire.com/do-i-need-a-modem-and-router-4686028
-
-
-https://www.geeksforgeeks.org/what-is-routing/
-
-https://www.techtarget.com/searchnetworking/definition/packet#:~:text=Packets%20are%20used%20for%20efficient%20and%20reliable%20transmission,enable%20multiple%20computers%20to%20share%20the%20same%20connection.
-
-https://wpastra.com/guides-and-tutorials/what-is-ip-address/
-
-https://www.cisco.com/c/en/us/solutions/small-business/resource-center/networking/how-does-a-router-work.html
-
-https://www.wesbytes.com/guide/kb/what-is-a-domain-and-a-dns/
-
-https://www.cloudflare.com/en-gb/learning/dns/what-is-dns/
-
-https://www.geeksforgeeks.org/what-is-transmission-control-protocol-tcp/
-
-https://www.cloudflare.com/en-gb/learning/ddos/glossary/hypertext-transfer-protocol-http/
-
-https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview
-
-https://www.cloudflare.com/en-gb/learning/ssl/what-is-https/
-
-https://kinsta.com/knowledgebase/what-is-an-http-request/
-
-https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods
-
-
-https://blog.logrocket.com/how-browser-rendering-works-behind-scenes/
-
-https://qarea.com/blog/webpage-rendering-how-it-works-tips-on-optimization
-
-https://techevaluate.com/why-do-we-break-data-into-packets/
-
-https://stackoverflow.com/questions/16518951/rendering-in-context-of-web-development
-
-https://www.sanity.io/glossary/rendering
-
-https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Tools_and_setup/What_are_browser_developer_tools
-
-https://www.geeksforgeeks.org/difference-between-compiler-and-interpreter/
-
-https://www.howtogeek.com/871071/what-is-chatgpt/
-
-https://lablab.ai/t/why-you-should-use-chatgpt-in-your-business
-
-https://cscareerline.com/hard-and-soft-skills-for-software-engineer-resume/
-
-https://www.geeksforgeeks.org/what-is-api-integration/
-
-https://www.geeksforgeeks.org/what-is-python/
-
-https://www.geeksforgeeks.org/disadvantages-of-python/
-
-https://www.bing.com/search?q=javascript+and+how+it+works&qs=n&form=QBRE&sp=-1&lq=0&pq=javascript+and+how+it+w&sc=10-23&sk=&cvid=811EF4EB78BC48E9A78027A45F2B7ED7&ghsh=0&ghacc=0&ghpl=
-
-https://www.geeksforgeeks.org/advantages-and-disadvantages-of-javascript/
-
-https://www.geeksforgeeks.org/how-chatgpt-is-transforming-the-software-development-process/
-
-
-https://fullscale.io/blog/roles-and-responsibilities-of-a-software-developer/
-
-https://www.atlassian.com/devops/what-is-devops/devops-engineer
-
-https://www.linkedin.com/advice/1/youre-software-developer-looking-network-whats-iecne
 
 
 
