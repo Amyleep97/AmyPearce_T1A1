@@ -8,7 +8,7 @@
 
 ## Doctypes 
 
-- Doctypes HTML helps identify which HTML document it's coded in; the purpose is to communicate with the browser so it knows what should be on shown your website. Doctypes will always be the first line of code you should see. 
+- Doctypes HTML helps identify which HTML document it's coded in; the purpose is to communicate with the browser so it knows what should be shown your website. Doctypes will always be the first line of code you should see. 
 
 - HTML5 is the most recent version and is the one that is recommended, you can identify this doctype by seeing this code:
 "< !DOCTYPE html >" HTML 4.01 and XHTML 1.10 are the other doctypes you may see in HTML but they can be more complex and complicated. You can also identify these by seeing: 
